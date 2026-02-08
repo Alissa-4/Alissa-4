@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Alissa. I’m a Computer Programming and Analysis student with a strong interest in IT, programming, web development, and hands-on technical work. I enjoy building and troubleshooting systems, making programs, and building functional and creative websites.  
+My name is Alissa Hernandez. I’m a Computer Programming and Analysis student with a strong interest in IT, programming, web development, and hands-on technical work. I enjoy building and troubleshooting systems, making programs, and building functional and creative websites.  
 
 I am currently learning C++, and am looking to improve my problem-solving skills through cousework and projects. 
 
