@@ -33,14 +33,11 @@ I am currently learning C++, and am looking to improve my problem-solving skills
 </p>
 
 - TCP/IP fundamentals  
-- IPv4 & IPv6 addressing and subnetting  
-- OSI model and network troubleshooting    
+- IPv4 & IPv6 addressing and subnetting   
 
 ### Hardware & IT Fundamentals
 - PC assembly and component compatibility   
 - System maintenance and troubleshooting  
-
----
 
 ## What You’ll Find Here
 - Coursework, practice projects, and personal programs
